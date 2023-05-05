@@ -1,0 +1,4 @@
+PORT=3000
+USER=jmpe65
+PSW=LBaa5XpsedyGRXrM
+DB_NAME=ProjectI
